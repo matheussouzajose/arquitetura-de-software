@@ -5,7 +5,7 @@
 - Estruturais.
 - Cross-Cutting.
 
-  ###### Características Operacionais
+  ##### Características Operacionais
   - Disponibilidade
   - Recuperação de desastres
   - Performance
@@ -14,7 +14,7 @@
   - Robustes
   - Escalabilidade
 
-  ###### Características Estruturais
+  ##### Características Estruturais
   - Configurável
   - Extensiabilidade
   - Fácil instalação
@@ -24,7 +24,7 @@
   - Portabilidade (diverso banco de dados)
   - Fácil suporte (logs, debigging)
 
-  ###### Características Cross-Cutting
+  ##### Características Cross-Cutting
   - Acessibilidade
   - Processo de retenção e recuperação de dados (quanto tempo os dados serão mantidos)
   - Autenticação e Autorização
