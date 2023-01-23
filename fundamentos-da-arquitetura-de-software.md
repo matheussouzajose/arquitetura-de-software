@@ -6,7 +6,7 @@
 - Tecnológica.
 - Corporativa.
 
-  ##### Arquitetura tecnológica
+  #### Arquitetura tecnológica
   - Especialidade em tecnologias especificas de mercado.
   - Geração de valor baseado em especialidade.
   - Diversidade de profissionais especialista.
@@ -16,7 +16,7 @@
     - Oracle.
     - SAP.
 
-  ##### Arquitetura corporativa
+  #### Arquitetura corporativa
   - Impacta estrategicamente a organização como um todo.
   - Avaliação de custos.
   - Avaliações de possíveis novas tecnologias.
@@ -25,7 +25,7 @@
   - Sistema Core.
   - Migrações.
 
-  ##### Arquitetura corporativa
+  #### Arquitetura corporativa
   - Fica entre a área de negócios e software.
   - Transformar requisitos de negócios em solução de software.
   - Desenhos arquiteturais da solução de um software para reproduzir como ele irá funcionar.
@@ -36,7 +36,7 @@
   - Pode participar do processo comercial de pré-venda e venda.
   - Analisa os impactos dos custos para o negócio.
 
-  ##### Arquitetura de Software
+  #### Arquitetura de Software
   - É uma "disciplina" da engenharia de software.
   - Diretamente ligada ao processo de desenvolvimento de software.
   - Afeta diretamente na estrutura organizacional da empresa.
@@ -72,7 +72,7 @@
 - Ter mais clareza do impacto que o software possui na organização como um todo.
 - Tomar decisões com mais confiança.
 
-##### Arquitetura VS Design
+#### Arquitetura VS Design
 - Arquitetura: Escopo global ou alto nível
 - Design: Escopo global
 - "Atividades relacionadas a arquitetura de software são sempre de design. Entretanto, nem todas atividades de design são
@@ -82,7 +82,7 @@
   Todas as decisões de design para um componente que não sejam "visíveis" fora dele, geralmente também não são."
   Fonte: Elemar Jr.
 
-##### Sustentabilidade
+#### Sustentabilidade
 - Desenvolver software é caro.
 - Software resolve uma dor.
 - Software precisa ser pago ao longo do tempo.
@@ -90,14 +90,14 @@
 - Quanto mais tempo o software fica no ar, mais retorno gera.
 - A solução precisa ser arquitetada.
 
-##### Pilares da arquitetura de software?
+#### Pilares da arquitetura de software?
 - Estruturação.
 - Fácil evolução, componentização para atender os objetivos de negócio.
 - Componentização.
 - Relacionamento entre sistemas.
 - Governança
 
-##### Requisitos arquiteturais (RAs)
+#### Requisitos arquiteturais (RAs)
 - Perfomance.
 - Armazenamento de dados.
 - Escalabilidade.
