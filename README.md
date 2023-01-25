@@ -16,3 +16,6 @@
 - *[Perfomance](./perfomance.md)*
 - *[Escalabilidade](./escalabilidade.md)*
 - *[Resiliência](./resiliencia.md)*
+
+Referências:
+- *[Manual do arquiteto de software](https://arquiteturadesoftware.online/)*
