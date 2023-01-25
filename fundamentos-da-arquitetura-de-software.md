@@ -74,7 +74,7 @@
 
 #### Arquitetura VS Design
 - Arquitetura: Escopo global ou alto nível
-- Design: Escopo global
+- Design: Escopo local
 - "Atividades relacionadas a arquitetura de software são sempre de design. Entretanto, nem todas atividades de design são
   sobre arquitetura. O objetivo primário da arquitetura de software é garantir que os atributos de qualidade,
   restrições de alto nível e os objetivos do negócio, sejam atendidos pelo sistema. Qualquer decisão de design que não tenha
