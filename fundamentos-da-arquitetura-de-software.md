@@ -20,12 +20,12 @@
   - Impacta estrategicamente a organização como um todo.
   - Avaliação de custos.
   - Avaliações de possíveis novas tecnologias.
-  - Padronização de novas tecnoligias.
+  - Padronização de novas tecnologias.
   - Planejamento de grandes implatações.
   - Sistema Core.
   - Migrações.
 
-  #### Arquitetura corporativa
+  #### Arquitetura de solução
   - Fica entre a área de negócios e software.
   - Transformar requisitos de negócios em solução de software.
   - Desenhos arquiteturais da solução de um software para reproduzir como ele irá funcionar.
