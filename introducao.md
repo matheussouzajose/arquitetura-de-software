@@ -57,3 +57,11 @@
 - Metodoligia de desenvolvimento: NoOps.
 - Tipos de aplicações: Serverless Applications.
 - Infraestrutura: Public Cloud.
+
+#### Service discovery
+- Processo de service discovery é responsável por prover mecanismos de identificação dos serviços disponíveis e suas instâncias.
+- Ferramentas populares:
+  - Netflix eureka.
+  - Consul.
+  - Etcd.
+  - ZooKeeper.

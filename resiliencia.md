@@ -25,7 +25,9 @@
 - Meio aberto = Permite uma quantidade limitada de requisições para verificação se o sistema tem condições de voltar ao ar integralmente.
 
 #### API Gateway
-- Garante que requisições "inapropriadas" cheguem até p sistema:
+- Uma API gateway recebe todas as chamadas de APIs de clientes e então as roteia para os microserviços correspondentes...
+- Em alguns casos ela também é responsável por realizar processos de verificação de segurança, como autenticação e autorização.
+- Garante que requisições "inapropriadas" cheguem até o sistema:
   - Ex: usuário não autenticado.
 - Implementa políticas de Rate Limiting, Health check, etc.
 - Ex: Kong

@@ -1,8 +1,5 @@
 ### Fundamentos da arquitetura de software
 
-
-
-
 ### Fundamentos
 - *[Introdução](./introducao.md)*
 - *[Tipos de arquitetura](./fundamentos-da-arquitetura-de-software.md)*

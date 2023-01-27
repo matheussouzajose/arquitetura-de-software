@@ -41,7 +41,7 @@
   - Transações entre serviços são "grandes desafios".
   - Mudanças bruscas em regras de negócio podem afetar diversos serviços tornando o processo difícil de ser refeito.
 
-### Organização em torno do negócio.
+#### Organização em torno do negócio.
 - Um projeto é baseado em um ou mais produtos que trabalham em diferentes contextos.
 - Time de desenvolvedores por produto.
 - Muitas empresas tratam os times como "squads".
@@ -49,37 +49,37 @@
 - Cada squad é responsável por um ou mais produtos.
 - Cada produto pode ter um ou mais serviços envolvidos.
 
-### Estrutura baseada em produtos, não em projetos.
+#### Estrutura baseada em produtos, não em projetos.
 
-### Smart endpoints & Dumb pipes.
+#### Smart endpoints & Dumb pipes.
 - Exposição de APIS (ex: Rest).
 - Comunicação entre serviços.
 - Comunicação síncrona e assíncrona.
 - Utilização de sistemas de mansageria (ex: RabitMQ).
 - Garantia de que um serviço foi executado baseado na execução de filas.
 
-### Governança descentralizada.
+#### Governança descentralizada.
 - Ferramenta certa para o trabalho certo. Tecnologias pode ser definidas baseadas na necessida do produto.
 - Diferentes padrões entre squads.
 - Contratos de inteface de forma independente.
 
-### Descentralização no gerenciamento de dados.
+#### Descentralização no gerenciamento de dados.
 
-### Automação de infraestrutura.
+#### Automação de infraestrutura.
 - Cloud computing.
 - Testes automatizados.
 - Continuos delivery.
 - Continuos integration.
 - Load balancer / Autoscaling.
 
-### Desenhado para falhar.
+#### Desenhado para falhar.
 - Tolerância a falha.
 - Serviços que se comunicam precisa de fallback.
 - Logging
 - Monitoramento em tempo real.
 - Alarmes.
 
-### Design evolutivo.
+#### Design evolutivo.
 - Produtos bem definidos evoluir ou serem extintos por razões de negócio.
 - Gerenciamento de versões.
-- Replacement and upgradeability
+- Replacement and upgradeability.
